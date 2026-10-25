@@ -1,0 +1,3 @@
+doc_id,title,url,activity_centre,publisher,doc_type,local_file,date_retrieved,sha256,notes
+exampleton-permits,Exampleton Fast-Track Permits,https://example.org/permits,Exampleton,Test Council,txt,exampleton_permits.txt,,,fictional test fixture
+exampleton-rezoning,Exampleton Station Precinct Rezoning,https://example.org/rezoning,Exampleton,Test Council,html,exampleton_rezoning.html,,,fictional test fixture

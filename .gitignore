@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+data/chroma/
+data/processed/*.jsonl
+eval/results/
+.env
+.DS_Store
+# Raw documents are public, but large PDFs bloat the repo. Commit sources.csv instead
+# and let teammates run scripts/fetch_sources.py. Remove this line to commit them.
+data/raw/*
+!data/raw/.gitkeep
